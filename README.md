@@ -26,5 +26,5 @@ rnn-final-project/
 ## Run 
 ```bash
 $ pip install streamlit
-$ python -m streamlit run streamlit_app.py
+$ python -m streamlit run enhanced_streamlit_app.py
 ```
